@@ -199,7 +199,7 @@ The project evaluates methods across **10 comprehensive parameters**:
 ## Research Paper
 
 The complete research paper is available in this repository:
-- **LaTeX Source**: [CSHQR_Research_Paper.tex](SSS.tex)
+- **LaTeX Source**: [SSS.tex](SSS.tex)
 - **PDF**: [CSHQR_Research_Paper.pdf](CSHQR_Research_Paper.pdf)
 - **Target Journal**: Springer Neural Processing Letters
 - **Status**: Submitted (January 2026)
