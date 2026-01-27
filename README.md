@@ -204,18 +204,7 @@ The complete research paper is available in this repository:
 - **Target Journal**: Springer Neural Processing Letters
 - **Status**: Submitted (January 2026)
 
-### Citation
 
-```bibtex
-@article{patel2026cshqr,
-  title={CS-HQR: Chroma-Subsampled Hybrid Quantum Representation for Efficient Color Image Encoding},
-  author={Patel, Raiyyan and others},
-  journal={Neural Processing Letters},
-  publisher={Springer},
-  year={2026},
-  note={Submitted}
-}
-```
 
 ## Visualization
 
@@ -253,8 +242,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Authors
 
-**Raiyyan Patel** et al.
-- Email: raiyyan@example.edu
+**Vrushali Nikam** et al.
+- Email: vrushali.nik@gmail.com 
 - Institution: Department of Computer Science and Engineering
 
 ## Acknowledgments
@@ -272,7 +261,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For questions, issues, or collaboration:
-- 📧 Email: raiyyan@example.edu
+- 📧 Email: vrushali.nik@gmail.com 
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/cshqr-project/issues)
 - 📖 Documentation: See research paper and notebook comments
 
