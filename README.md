@@ -133,14 +133,14 @@ jupyter >= 1.0.0
 
 4. **Launch Jupyter Notebook**
    ```bash
-   jupyter notebook FINAL_CSHQR.ipynb
+   jupyter notebook FINAL_CSHQR-VSN.ipynb
    ```
 
 ## Usage
 
 ### Quick Start
 
-1. **Open the main notebook**: `FINAL_CSHQR.ipynb`
+1. **Open the main notebook**: `FINAL_CSHQR-VSN.ipynb`
 2. **Configure paths**: Update the dataset path in the configuration cell
 3. **Run all cells**: Execute the notebook sequentially
 
