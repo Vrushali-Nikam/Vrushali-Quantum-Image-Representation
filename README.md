@@ -244,7 +244,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Vrushali Nikam** et al.
 - Email: vrushali.nik@gmail.com 
-- Institution: Department of Computer Science and Engineering
+- Institution: Department of Computer Engineering
 
 ## Acknowledgments
 
@@ -255,7 +255,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Related Projects
 
-- [SAHQR](FINAL_SAHQR.ipynb) - Spatial Attention Hybrid Quantum Representation
+- [SAHQR](FINAL_CSHQR-VSN.ipynb) - Spatial Attention Hybrid Quantum Representation
 - Other quantum image representation implementations
 
 ## Support
