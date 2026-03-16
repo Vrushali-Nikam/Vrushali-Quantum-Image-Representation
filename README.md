@@ -200,7 +200,7 @@ The project evaluates methods across **10 comprehensive parameters**:
 
 The complete research paper is available in this repository:
 - **LaTeX Source**: [VSNIKAM-Final.tex](VSNIKAM-Final.tex)
-- **PDF**: [VSNIKAM_P1_FINAL.pdf](VSNIKAM_P1_FINAL.pdf)
+- **PDF**: [NIKAM-FINAL.pdf](NIKAM-FINAL.pdf)
 - **Target Journal**: Springer Neural Processing Letters
 - **Status**: Submitted (January 2026)
 
